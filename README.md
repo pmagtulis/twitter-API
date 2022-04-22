@@ -12,7 +12,7 @@ presidential candidates in the 2022 Philippine polls: Leni Robredo and Ferdinand
 
 You will need to sign up for a Twitter developer account and request for **Elevated** access to run this code. You will need your own set of API keys.
 
-*Watch out for updates on this notebook.
+*Watch out for updates on this notebook.*
 
 
 # Contact
